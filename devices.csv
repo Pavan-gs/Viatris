@@ -1,0 +1,10 @@
+ip,device_type,location
+1.1.1.1,workstation,data_center
+10.0.0.100,router,data_center
+10.0.0.5,IoT,remote
+10.0.0.6,server,remote
+192.168.1.10,workstation,remote
+192.168.1.100,IoT,data_center
+192.168.1.20,IoT,remote
+192.168.1.30,IoT,data_center
+8.8.8.8,router,remote
